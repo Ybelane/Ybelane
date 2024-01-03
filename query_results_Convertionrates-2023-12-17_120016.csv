@@ -1,0 +1,8 @@
+"funnel_step","funnel_name","value","conversion_from_previous_step"
+"1","downloads","23608",""
+"2","signups","17623","74.65%"
+"3","ride_requested","12406","70.40%"
+"4","driver_accepted","12278","98.97%"
+"5","ride_begin","6233","50.77%"
+"6","payment_approved","6233","100.00%"
+"7","user_review","4348","69.76%"
