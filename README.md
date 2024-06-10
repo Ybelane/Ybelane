@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ybelane
 - I´m an aspiring data analyst
 - 👀 I’m interested in everything about data
-- 🌱 I’m currently improving my skills on visualization tools such as tableau, Power BI and Excel
-- 💞️ I’m looking to collaborate on anything about data and analytics, which can help build and shape my skills in this data analysys world
+- 🌱 I’m currently improving my skills in visualization tools such as Tableau, Power BI, and Excel
+- 💞️ I’m looking to collaborate on anything about data and analytics, which can help build and shape my skills in this data analysis world
 - 📫 How to reach me www.linkedin.com/in/yuranbelane
 
 <!---
